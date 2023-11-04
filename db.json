@@ -1,0 +1,17 @@
+{
+   "notes": [
+      {
+         "id": 1699135339658,
+         "content": "test, test",
+         "tags": []
+      },
+      {
+         "id": 1699135372403,
+         "content": "learning fullstack with devops",
+         "tags": [
+            "goals",
+            "dev"
+         ]
+      }
+   ]
+}
