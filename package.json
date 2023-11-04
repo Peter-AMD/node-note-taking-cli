@@ -1,5 +1,5 @@
 {
-  "name": "@pamd/note-taking-cli",
+  "name": "@peteamd/note-taking-cli",
   "version": "1.0.0",
   "description": "This is a note taking app build on Node and a CLI for interaction",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "taking",
     "cli"
   ],
-  "author": "pamd",
+  "author": "peteamd",
   "license": "ISC",
   "dependencies": {
     "open": "^9.1.0",
