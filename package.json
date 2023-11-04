@@ -1,16 +1,23 @@
 {
-  "name": "intro-node",
+  "name": "@pamd/note-taking-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a note taking app build on Node and a CLI for interaction",
   "main": "index.js",
-  "type": "module",
-  "bin": {
-    "note": "./index.js"
-  },
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-AMD/node-note-taking-cli.git"
+  },
+  "keywords": [
+    "node",
+    "note-taking",
+    "note",
+    "taking",
+    "cli"
+  ],
+  "author": "pamd",
   "license": "ISC",
   "dependencies": {
     "open": "^9.1.0",
@@ -18,5 +25,9 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Peter-AMD/node-note-taking-cli/issues"
+  },
+  "homepage": "https://github.com/Peter-AMD/node-note-taking-cli#readme"
 }
