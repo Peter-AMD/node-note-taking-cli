@@ -1,6 +1,6 @@
 {
   "name": "@peteamd/note-taking-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a note taking app build on Node and a CLI for interaction",
   "main": "index.js",
   "scripts": {
